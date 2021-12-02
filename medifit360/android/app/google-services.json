@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "522442533524",
+    "project_id": "medi-fit360",
+    "storage_bucket": "medi-fit360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522442533524:android:6d95040c8055faf0652281",
+        "android_client_info": {
+          "package_name": "com.example.medifit360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522442533524-c5lhn47ucrb03vefitdqu4e80qk32qe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT36944PLcMD0QXafxbY-kFfcbbD6KLTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522442533524-c5lhn47ucrb03vefitdqu4e80qk32qe9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522442533524-tm8u83td4dplma00d2iltjcmgmjv2por.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medifit360"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
