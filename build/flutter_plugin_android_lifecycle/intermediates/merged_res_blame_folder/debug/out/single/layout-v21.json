@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\adesh\\StudioProjects\\medifit360\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\adesh\\.gradle\\caches\\transforms-2\\files-2.1\\7feeda44582989ec8d71e25a78cadf3d\\core-1.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\adesh\\StudioProjects\\medifit360\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\adesh\\.gradle\\caches\\transforms-2\\files-2.1\\7feeda44582989ec8d71e25a78cadf3d\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\adesh\\StudioProjects\\medifit360\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\adesh\\.gradle\\caches\\transforms-2\\files-2.1\\7feeda44582989ec8d71e25a78cadf3d\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\adesh\\StudioProjects\\medifit360\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\adesh\\.gradle\\caches\\transforms-2\\files-2.1\\7feeda44582989ec8d71e25a78cadf3d\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

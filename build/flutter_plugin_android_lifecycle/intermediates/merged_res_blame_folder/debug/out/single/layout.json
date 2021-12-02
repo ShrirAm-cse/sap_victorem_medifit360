@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\adesh\\StudioProjects\\medifit360\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\adesh\\.gradle\\caches\\transforms-2\\files-2.1\\7feeda44582989ec8d71e25a78cadf3d\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\adesh\\StudioProjects\\medifit360\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\adesh\\.gradle\\caches\\transforms-2\\files-2.1\\7feeda44582989ec8d71e25a78cadf3d\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\adesh\\StudioProjects\\medifit360\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\adesh\\.gradle\\caches\\transforms-2\\files-2.1\\7feeda44582989ec8d71e25a78cadf3d\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\adesh\\StudioProjects\\medifit360\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\adesh\\.gradle\\caches\\transforms-2\\files-2.1\\7feeda44582989ec8d71e25a78cadf3d\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\adesh\\StudioProjects\\medifit360\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\adesh\\.gradle\\caches\\transforms-2\\files-2.1\\7feeda44582989ec8d71e25a78cadf3d\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\adesh\\StudioProjects\\medifit360\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\adesh\\.gradle\\caches\\transforms-2\\files-2.1\\7feeda44582989ec8d71e25a78cadf3d\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]

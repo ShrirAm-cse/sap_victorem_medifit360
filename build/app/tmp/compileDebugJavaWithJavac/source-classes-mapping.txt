@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/medifit360/BuildConfig.java
+ com.example.medifit360.BuildConfig
+com/example/medifit360/MainActivity.java
+ com.example.medifit360.MainActivity
